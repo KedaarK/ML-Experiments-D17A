@@ -40,9 +40,11 @@ This repository contains implementations of core Machine Learning experiments as
 - [Kernel SVM with Non Linear Dataset](Batch_A/ML%20Exp5%20SVM%20Non%20Linear%20Data.ipynb)
 
 ## 6. To understand ensemble learning: Deploying a Random Forest Model / Compare Xgboost and Random forest classification
-- [Render Deployed Link](https://random-forest-i5u3.onrender.com/predict) &emsp; [Colab Link](Batch_A/ML%20Exp6%20Random_Forest_Presentation.ipynb)
-- [HuggingFace Deployed Link](https://huggingface.co/spaces/Ha4sh447/Random_forest_exp6_ml) &emsp; [CookBook Link](https://docs.google.com/document/d/1MLMkBJ_1PajssvVujWD_ctq8aNNeySrwuTzT5Ox2B1g/edit?usp=sharing) &emsp; [Colab](Batch_C/Exp%206%20-%20Random%20Forest%20Classifier%20Deployed%20on%20HuggingFace.ipynb)
-- [Streamlit Deployed Link](https://wine-quality-app-kjzvtbdgjwtemymsjovjyd.streamlit.app/) &emsp; [CookBook Link](https://docs.google.com/document/d/1f4mVqOk-wLJRFensWy9POenWz-9pGtja/edit) &emsp;
+- <a href="https://random-forest-i5u3.onrender.com/predict" target="_blank">Render Deployed Link</a> &emsp; [Colab Link](Batch_A/ML%20Exp6%20Random_Forest_Presentation.ipynb)
+- <a href="https://huggingface.co/spaces/Ha4sh447/Random_forest_exp6_ml" target="_blank">HuggingFace Deployed Link</a> &emsp;
+<a href="https://docs.google.com/document/d/1MLMkBJ_1PajssvVujWD_ctq8aNNeySrwuTzT5Ox2B1g/edit?usp=sharing" target="_blank">CookBook Link</a> &emsp; [Colab](Batch_C/Exp%206%20-%20Random%20Forest%20Classifier%20Deployed%20on%20HuggingFace.ipynb)
+- <a href="https://wine-quality-app-kjzvtbdgjwtemymsjovjyd.streamlit.app/" target="_blank">Streamlit Deployed Link</a> &emsp;
+<a href="https://docs.google.com/document/d/1f4mVqOk-wLJRFensWy9POenWz-9pGtja/edit" target="_blank">CookBook Link</a>
 
 ## 7. To understand and analyse unsupervised learning in ML / Understand clustering and its types in ML (MST, DBSCAN, EM) & compare its performance measures
 - [Batch A](Batch_A/ML%20Exp7%20Clustering%20on%20Iris.ipynb)
