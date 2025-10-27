@@ -45,4 +45,5 @@ This repository contains implementations of core Machine Learning experiments as
 - [Streamlit Deployed Link]() &emsp; [CookBook Link]() &emsp;
 
 ## 7. To understand and analyse unsupervised learning in ML / Understand clustering and its types in ML (MST, DBSCAN, EM) & compare its performance measures
-- 
+- [Batch A](Batch_A/ML%20Exp7%20Clustering%20on%20Iris.ipynb)
+- [Batch C](Batch_C/Exp%207%20-%20Clustering.ipynb)
