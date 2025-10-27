@@ -1,6 +1,6 @@
-# Machine Learning Laboratory Experiments
+# Machine Learning Experiments
 
-This repository contains implementations of core Machine Learning experiments as per the academic lab curriculum.
+This repository contains implementations of Machine Learning experiments as per the academic lab curriculum(2025-26).
 
 ---
 
