@@ -25,7 +25,10 @@ This repository contains implementations of core Machine Learning experiments as
 - [SVD](Batch_B/ML%20Exp2%20SVD.ipynb)
 
 ## 3. To perform Linear, Multivariate, Polynomial regression, Ridge and Lasso regression
-- 
+- [Linear Regression using Gradient Descent](Batch_C/Exp%203%20-%20Univariate%20Regression.ipynb)
+- [Multivariate Regression](Batch_C/Exp%203%20-%20Multivariate%20Regression.ipynb)
+- [Polynomial Regression](Batch_C/Exp%203%20-%20Polynomial%20Regression.ipynb)
+- [Ridge and Lasso Regression](Batch_A/ML%20Exp3%20Ridge_%26_Lasso_Regression.ipynb)
 
 ## 4. To perform Prepruning/ Post pruning of Decision tree (DT) / Compare DT (entropy, gini) with logistic regression
 - 
