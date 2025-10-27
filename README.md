@@ -40,7 +40,7 @@ This repository contains implementations of Machine Learning experiments as per 
 - [Kernel SVM with Non Linear Dataset](Batch_A/ML%20Exp5%20SVM%20Non%20Linear%20Data.ipynb)
 
 ## 6. To understand ensemble learning: Deploying a Random Forest Model / Compare Xgboost and Random forest classification
-- <a href="https://random-forest-i5u3.onrender.com/predict" target="_blank">Render Deployed Link</a> &emsp; [Colab Link](Batch_A/ML%20Exp6%20Random_Forest_Presentation.ipynb)
+- [Render Colab Link](Batch_A/ML%20Exp6%20Random_Forest_Presentation.ipynb)
 - <a href="https://huggingface.co/spaces/Ha4sh447/Random_forest_exp6_ml" target="_blank">HuggingFace Deployed Link</a> &emsp;
 <a href="https://docs.google.com/document/d/1MLMkBJ_1PajssvVujWD_ctq8aNNeySrwuTzT5Ox2B1g/edit?usp=sharing" target="_blank">CookBook Link</a> &emsp; [Colab](Batch_C/Exp%206%20-%20Random%20Forest%20Classifier%20Deployed%20on%20HuggingFace.ipynb)
 - <a href="https://wine-quality-app-kjzvtbdgjwtemymsjovjyd.streamlit.app/" target="_blank">Streamlit Deployed Link</a> &emsp;
