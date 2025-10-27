@@ -16,7 +16,7 @@ This repository contains implementations of core Machine Learning experiments as
 ---
 
 ## 1. Crafting of the dataset: Data preparation in ML
-- [Batch A](Batch_A/)
+- [Batch A](Batch_A/ML%20Exp1%20-%20Understanding%20of%20Data.ipynb)
 
 ## 2. To understand Dimensionality Reduction using PCA/ LDA/ SVD
 - 
